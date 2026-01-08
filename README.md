@@ -28,6 +28,11 @@ As a Mathematics graduate transitioning into Data Science, I built this project 
     ```
 3.  **Run the script:**
     Open `Time Series Sales Analysis.ipynb` in Jupyter Notebook or VS Code and run all cells.
+## Key Learnings:
+​Mastered pd.to_datetime and set_index to handle time-series data effectively.
+​Learned the difference between Rolling Windows (moving averages) and Resampling (grouping by time).
+​Applied mathematical concepts (statistics) to business data contexts.
+
 
 ##  Sample Output
 The script generates insights similar to the following:
@@ -46,7 +51,3 @@ Date
 ...
 
 Highest Sales occurred on: 2025-01-15
-Key Learnings
-​Mastered pd.to_datetime and set_index to handle time-series data effectively.
-​Learned the difference between Rolling Windows (moving averages) and Resampling (grouping by time).
-​Applied mathematical concepts (statistics) to business data contexts.
